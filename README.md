@@ -22,7 +22,6 @@ Oto technologie, w których czuję się najpewniej i których używam na co dzie
 
 ### Frontend
 * **JavaScript (ES6+)**
-* **React**
 * **HTML5**
 * **CSS3**
 * **SCSS (Sass)**
