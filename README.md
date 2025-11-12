@@ -41,8 +41,8 @@ Oto technologie, w których czuję się najpewniej i których używam na co dzie
 
 ## 🌱 Nad czym teraz pracuję?
 
-* Aktualnie skupiam się na [Rozwoju mojego projektu - Avenly].
-* W wolnym czasie uczę się [Vue.js].
+* Aktualnie skupiam się na Rozwoju mojego projektu - Avenly.
+* W wolnym czasie uczę się Vue.js.
 
 ---
 
@@ -50,4 +50,4 @@ Oto technologie, w których czuję się najpewniej i których używam na co dzie
 
 Zawsze chętnie rozmawiam o nowych projektach, technologii lub designie.
 
-* **Moja strona:** [https://avenly.pl]
+* **Moja strona:** https://avenly.pl
