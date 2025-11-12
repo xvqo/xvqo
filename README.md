@@ -40,7 +40,7 @@ Oto technologie, w których czuję się najpewniej i których używam na co dzie
 
 ## 🌱 Nad czym teraz pracuję?
 
-* Aktualnie skupiam się na Rozwoju mojego projektu - Avenly.
+* Aktualnie skupiam się na rozwoju mojego projektu - Avenly.
 * W wolnym czasie uczę się Vue.js.
 
 ---
