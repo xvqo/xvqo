@@ -1,6 +1,6 @@
 # Cześć, jestem Bartek 👋
 
-### 👨‍💻 Kreatywny Developer | 🎨 Grafik | ✍️ Copywriter
+### 👨‍💻 Developer | 🎨 Grafik | ✍️ Copywriter
 
 Jestem multidyscyplinarnym twórcą, który wierzy, że najlepsze produkty cyfrowe powstają na styku **precyzyjnego kodu**, **intuicyjnego designu** i **klarownej komunikacji**.
 
